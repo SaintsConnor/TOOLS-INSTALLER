@@ -404,4 +404,4 @@ function call_cmd(){
 }
 
 call_cmd "https://github.com/SaintsConnor/TOOLS-INSTALLER/"
-call_cmd "./TOOLS-INSTALLER/installgithub-kali.sh"
+call_cmd "./TOOLS-INSTALLER/installgithub.sh"
