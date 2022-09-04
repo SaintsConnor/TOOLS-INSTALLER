@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Joel Russo - jolick
+# Author: Joel Russo - jolick & Connor - Addition at end of script
 
 ##### settings
 #--- Note: Most of the tools that will be git clone will be placed in the directory "$outdir", in exception to wordlists which will be placed in /usr/share/wordlists and pratical tools like impacket, webshells which will be placed in $optdir
