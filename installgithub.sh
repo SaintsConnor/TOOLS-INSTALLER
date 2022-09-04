@@ -9,4 +9,5 @@ function call_cmd(){
 
 call_cmd "git clone https://github.com/SaintsConnor/Exploits"
 call_cmd "git clone https://github.com/SaintsConnor/Scripts-PenTest"
-call_cmd "./Scripts-Pentest/Cryptex/install.sh"
+call_cmd "git clone https://github.com/SSGorg/Cryptex"
+call_cmd "./Cryptex/src/install.sh"
