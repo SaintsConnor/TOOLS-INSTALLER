@@ -1,6 +1,14 @@
 #!/bin/bash
+# ------- Notes -------
+# Please contact Connor if any questions, details listed below
 
-# Author: Joel Russo - jolick & Connor - Addition at end of script
+# ------- Author Info -------
+
+# Github.com/SaintsConnor
+# Discord: connor#2597
+# Email: venomsneakymc@gmail.com
+
+# Credits: Joel Russo (Original Code)
 
 ##### settings
 #--- Note: Most of the tools that will be git clone will be placed in the directory "$outdir", in exception to wordlists which will be placed in /usr/share/wordlists and pratical tools like impacket, webshells which will be placed in $optdir
@@ -12,7 +20,7 @@ optdir="/opt"          # where commonly used tools will go to
 #--- your user
 user=$(who am i | awk '{print $1}') #current user running script
 #--- or if you want to set another user
-#user="joel"
+#user="[EXAMPLE]"
 
 
 ####################################################
